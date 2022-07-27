@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunghyepark&show_icons=true&theme=radical)
+
 ## 👋 Sunghye Park
 
 > I'm a Ph.D. student in the Department of Electrical Engineering, Pohang University of Science and Technology (POSTECH), Korea. I’m working with Prof. Seokhyeong Kang in [CAD & SoC Design Lab.](http://csdl.postech.ac.kr/)
@@ -9,7 +11,7 @@
 
 
 
-### Publications
+### ⚡ Publications
 
 **Conference**
   - [1] **Sunghye Park**, Dohun Kim, Jae-Yoon Sim, and Seokhyeong Kang, “MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device,” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022 [accepted].
@@ -28,17 +30,22 @@
  - [3] Seokhyeong Kang, Sunmean Kim, Sung-Yun Lee, and **Sunghye park** “APPARATUS FOR LOW POWER TERNARY LOGIC CIRCUIT,” South Korea 10-2020-0129024 (registered), US 17/175,570 (applied).
 
 
-### Invited Talks
+### ⚡ Invited Talks
 
 “A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers,” @ [NANO KOREA 2022 Symposium](https://ace.postech.ac.kr/event/nano-korea-2022) (IBM Quantum Young Scientists’ Workshop), Jul. 2022.
 
-### Awards
+### ⚡ Awards
 - Honorable mention in the ISPD Contest 2020 - Wafer-Scale Deep Learning Accelerator Placement
 
 - Best paper award at SoC conference (in Korea), 2019
 
-### Certificate
+### ⚡ Certificate
 - Certificate of Quantum Excellence - Qiskit Hackathon KOREA 2022
+
+### ⚡ Education
+- **Ph. D. in Electrical Engineering** (2021.02 - present) - POSTECH, Advisor: Prof. Seokhyeong Kang (POSTECH)
+- M. Sc. in Electrical Engineering (2019.02 - 2021.02) - POSTEH, Advisor: Prof. Seokhyeong Kang (POSTECH), Thesis: "An Optimal Qubit Mapping Method for NISQ Computers"
+- B. Sc in Electronics Engineering (2015.02 - 2019.02) - KNU
 
 
 
