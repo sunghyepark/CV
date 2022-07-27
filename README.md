@@ -40,14 +40,6 @@
 ### Certificate
 - Certificate of Quantum Excellence - Qiskit Hackathon KOREA 2022
 
-### Education
-| Ph. D. in Electrical Engineering | 2021.02 - present | Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea  
-Advisor: Prof. Seokhyeong Kang (POSTECH) |
-| --- | --- | --- |
-| M. Sc. in Electrical Engineering | 2019.02 - 2021.02 | Pohang University of Science and Technology (POSTECH), Pohang, Republic of Korea  
-Advisor: Prof. Seokhyeong Kang (POSTECH)
-Thesis: An Optimal Qubit Mapping Method for NISQ Computers |
-| B. Sc in Electronics Engineering | 2015.02 - 2019.02 | Kyungpook National University (KNU), Dae-gu, Republic of Korea |
 
 
 ### 📫 Contact information
