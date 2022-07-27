@@ -43,8 +43,8 @@
 - Certificate of Quantum Excellence - Qiskit Hackathon KOREA 2022
 
 ### ⚡ Education
-- **Ph. D. in Electrical Engineering** (2021.02 - present) - POSTECH, Advisor: Prof. Seokhyeong Kang (POSTECH)
-- M. Sc. in Electrical Engineering (2019.02 - 2021.02) - POSTEH, Advisor: Prof. Seokhyeong Kang (POSTECH), Thesis: "An Optimal Qubit Mapping Method for NISQ Computers"
+- Ph. D. in Electrical Engineering (2021.02 - present) - POSTECH, Advisor: Prof. Seokhyeong Kang (POSTECH)
+- M. Sc. in Electrical Engineering (2019.02 - 2021.02) - POSTECH, Advisor: Prof. Seokhyeong Kang (POSTECH), Thesis: "An Optimal Qubit Mapping Method for NISQ Computers"
 - B. Sc in Electronics Engineering (2015.02 - 2019.02) - KNU
 
 
