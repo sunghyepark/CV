@@ -19,7 +19,7 @@
  
 
 **Journal**
- - [1] Sunmean Kim, Sung-Yun Lee, Sunghye Park, Kyung Rok Kim, and Seokhyeong Kang, “A Logic Synthesis Methodology for Low-Power Ternary Logic Circuits,” IEEE Transactions on Circuits and Systems I: Regular Papers (2022).
+ - [1] Sunmean Kim, Sung-Yun Lee, **Sunghye Park**, Kyung Rok Kim, and Seokhyeong Kang, “A Logic Synthesis Methodology for Low-Power Ternary Logic Circuits,” IEEE Transactions on Circuits and Systems I: Regular Papers (2022).
 
 
 **Patent**
@@ -28,6 +28,17 @@
  - [3] Seokhyeong Kang, Sunmean Kim, Sung-Yun Lee, and **Sunghye park** “APPARATUS FOR LOW POWER TERNARY LOGIC CIRCUIT,” South Korea 10-2020-0129024 (registered), US 17/175,570 (applied).
 
 
+### Invited Talks
+
+“A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers,” @ [NANO KOREA 2022 Symposium](https://ace.postech.ac.kr/event/nano-korea-2022) (IBM Quantum Young Scientists’ Workshop), Jul. 2022.
+
+### Awards
+- Honorable mention in the ISPD Contest 2020 - Wafer-Scale Deep Learning Accelerator Placement
+
+- Best paper award at SoC conference (in Korea), 2019
+
+### Certificate
+- Certificate of Quantum Excellence - Qiskit Hackathon KOREA 2022
 
 
 ### 📫 Contact information
