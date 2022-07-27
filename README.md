@@ -9,6 +9,13 @@
 >
 
 
+### 📫 Contact information
+
+- email: shpark96@postech.ac.kr
+- [LinkedIn](https://www.linkedin.com/in/sunghye-park-23486023a/) 
+- [GoogleScholar](https://scholar.google.com/citations?hl=en&user=wpK6M2UAAAAJ)
+- [CVpage](https://shpark96.notion.site/shpark96/Sunghye-Park-601e8fa7180f4151aaae4a5b75111348) 
+
 
 
 ### ⚡ Publications
@@ -49,12 +56,7 @@
 
 
 
-### 📫 Contact information
 
-- email: shpark96@postech.ac.kr
-- [LinkedIn](https://www.linkedin.com/in/sunghye-park-23486023a/) 
-- [GoogleScholar](https://scholar.google.com/citations?hl=en&user=wpK6M2UAAAAJ)
-- [CVpage](https://shpark96.notion.site/shpark96/Sunghye-Park-601e8fa7180f4151aaae4a5b75111348) 
 
 
 
