@@ -21,8 +21,8 @@
 ### ⚡ Publications
 
 **Conference**
-  - [1] **Sunghye Park**, Dohun Kim, Jae-Yoon Sim, and Seokhyeong Kang, “MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device,” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022 [accepted].
-  - [2] **Sunghye Park**, Daeyeon Kim, Minhyuk Kwoen, Jae-Yoon Sim, and Seokhyeong Kang, “A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers,” *in 2022 59th ACM/IEEE Design Automation Conference (DAC)*, 2022, to appear.
+  - [1] **Sunghye Park**, Dohun Kim, Jae-Yoon Sim, and Seokhyeong Kang, “MCQA: Multi-Constraint Qubit Allocation for Near-FTQC Device,” *in 2022 41th IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2022, to appear.
+  - [2] **Sunghye Park**, Daeyeon Kim, Minhyuk Kwoen, Jae-Yoon Sim, and Seokhyeong Kang, “[A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers](https://dl.acm.org/doi/abs/10.1145/3489517.3530402),” *in 2022 59th ACM/IEEE Design Automation Conference (DAC)*, 2022.
  - [3] **Sunghye Park**, Sunmean Kim, Sung-Yun Lee, Seokhyeong Kang, “Multi-Threshold Graphene Barristor-Based Ternary ALU,” *in Proc. IEEE International SoC Design Conference*, 2019.
  - [4] Sunmean Kim, Sung-Yun Lee, **Sunghye Park**, and Seokhyeong Kang, “Design of Quad-Edge-Triggered Sequential Logic Circuits for Ternary Logic,” *in Proc. IEEE 49th International Symposium on Multiple-Valued Logic (ISMVL)*, 2019, pp. 37-42.
  
