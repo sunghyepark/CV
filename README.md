@@ -42,7 +42,9 @@
 “A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers,” @ [NANO KOREA 2022 Symposium](https://ace.postech.ac.kr/event/nano-korea-2022) (IBM Quantum Young Scientists’ Workshop), Jul. 2022.
 
 ### ⚡ Awards
-- qBraid HAQS 2022 - QML Overall Challenge 1st Place Winner
+- Top Prize in the 2nd POSTECH-EE Excellent Research Performance Contest, Jan. 2023
+
+- QML Overall Challenge 1st Place Winner at qBraid HAQS 2022, Nov. 2022
 
 - Honorable mention in the ISPD Contest 2020 - Wafer-Scale Deep Learning Accelerator Placement
 
