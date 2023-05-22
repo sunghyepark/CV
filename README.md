@@ -43,6 +43,8 @@
 - “A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers,” @ [NANO KOREA 2022 Symposium](https://ace.postech.ac.kr/event/nano-korea-2022) (IBM Quantum Young Scientists’ Workshop), Jul. 2022.
 
 ### ⚡ Awards
+- 2023-1 POSTECHIAN fellowship, May, 2023
+
 - 4th Prize in the 3rd POSTECH Excellent Research Performance Contest, Feb. 2023
 
 - Top Prize in the 2nd POSTECH-EE Excellent Research Performance Contest, Jan. 2023
