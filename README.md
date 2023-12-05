@@ -68,7 +68,6 @@
 
 ### ⚡ Education
 - Ph. D. in Electrical Engineering (2021.02 - present) - POSTECH CSDL, Advisor: Prof. Seokhyeong Kang (POSTECH)
-- Visiting Graduate Student (2023.08 - 2024.02) - Chair for Design Automation in TUM, Prof. Robert Wille
 - M. Sc. in Electrical Engineering (2019.02 - 2021.02) - POSTECH CSDL, Advisor: Prof. Seokhyeong Kang (POSTECH), Thesis: "An Optimal Qubit Mapping Method for NISQ Computers"
 - B. Sc in Electronics Engineering (2015.02 - 2019.02) - KNU
 
